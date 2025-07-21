@@ -1,0 +1,39 @@
+📊 Blinkit Sales Analysis Dashboard – Power BI
+The Blinkit Sales Analysis Dashboard is an interactive Power BI dashboard designed to analyze and visualize the sales performance of the Blinkit grocery delivery platform (owned by Zomato). It offers a detailed, user-friendly view of key metrics and trends across multiple business dimensions.
+
+🔍 Key Dashboard Features:
+Dynamic KPIs:
+
+Total Sales
+
+Average Sales
+
+Total Items Sold
+
+Average Customer Rating
+
+Interactive Filters (Slicers):
+
+Outlet Size (Small, Medium, High)
+
+Outlet Location Type (Tier 1, Tier 2, etc.)
+
+Item Type (e.g., Dairy, Breakfast, Snacks)
+
+Data Visualizations Include:
+
+Sales by Fat Content (Donut Chart)
+
+Sales by Item Type
+
+Sales by Year of Outlet Establishment
+
+Sales by Outlet Size and Tier
+
+Sales by Outlet Type (Supermarket Type1, Grocery Store, etc.)
+
+Fully Responsive Layout:
+All visuals update automatically based on selected filters for real-time insights.
+
+📈 Business Use Case:
+This dashboard provides decision-makers with a holistic view of Blinkit's product performance, outlet-level trends, and customer behavior. It supports strategic planning, product optimization, and sales performance evaluation across locations and categories.
